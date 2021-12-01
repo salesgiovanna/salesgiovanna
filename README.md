@@ -4,7 +4,7 @@
 
 - 😄 Hi, I'm Giovanna Moreira
 - 🦕 I'm in the 1st year of Computer Engineering 
-- 💻 I’m currently learning C
+- 💻 Currently learning C
 
 
 
