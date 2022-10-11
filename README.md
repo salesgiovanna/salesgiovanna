@@ -3,7 +3,7 @@
   
 
 - 😄 Hi, I'm Giovanna Moreira
-- 🦕 I'm in the 2nd year of Computer Engineering 
+- 🦕 I'm in the 2nd year of Computer Science
 - 💻 Currently learning C, java and python
 
 
